@@ -17,3 +17,8 @@ ul {
   line-height: 30px;
   font-weight: 900;
 }
+
+img {
+  width: 300px;
+  height: 200px;
+}
